@@ -1,6 +1,8 @@
 **Link to project journal:**
 https://docs.google.com/document/d/e/2PACX-1vQcXveFR99JMTzXYMM4WUpWo1_QDfGM6EWKZiZiR87u00E669bl-GTeatbMJ6cxyqIU5RKKhmYG8dh4/pub
 
+**Link to YouTube Video:** https://youtu.be/F3r-G4Q3Tuc 
+
 
 **Overview:**
 </p>
