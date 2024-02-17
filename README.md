@@ -1,7 +1,13 @@
+**Link to project journal:**
+https://docs.google.com/document/d/e/2PACX-1vQcXveFR99JMTzXYMM4WUpWo1_QDfGM6EWKZiZiR87u00E669bl-GTeatbMJ6cxyqIU5RKKhmYG8dh4/pub
+
+
 **Overview:**
+</p>
 The goal of this project was to offer users an innovative experience akin to drawing lots, which then creatively composes a poem. I developed an interactive system using NFC tags containing texts of keywords. Users can then draw the tags from a bucket randomly. Through the hardware, the ESP32 board will send the detected keywords to the ChatGPT API to initiate poem generation. The returned result will be displayed through a Python script UI.
 
 **Components:**
+</p>
 NFC Tags: Used to store predefined keywords related to various themes or emotions.
 RFID Reader via SPI connection: Reads the data stored on NFC tags when they are brought into proximity.
 ESP32 Board: Serves as the central processing unit, managing data flow between the NFC tags, the AI algorithm, and the output mechanisms.
